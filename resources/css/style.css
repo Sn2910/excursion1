@@ -19,6 +19,16 @@
     color: aquamarine;
 }
 
+/* Subheading and Subpara*/
 
+.subheading{
+    font-size: 42px;
+    font-weight: 300;
+    color: white;
+}
+.subpara{
+    font-size: 21px;
+    color: gray;
+}
 
 
